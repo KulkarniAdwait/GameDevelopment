@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<HUDSettings X="0" Y="0" Width="800" Height="480">
+  <HudObject id="100" partition="TopLeft" type="Text" text="Score:" fontLocation="sf"></HudObject>
+  <HudObject id="101" partition="TopLeft" XOffset="50" YOffset="5" type="Image" imageLocation="Rect" isBeside="100"></HudObject>
+
+  <HudObject id="201" partition="TopRight" XOffset="0" YOffset="0" type="Image" imageLocation="GreenLight" isBeside="0"></HudObject>
+  <HudObject id="200" partition="TopRight" XOffset="0" YOffset="0" type="Text" text="Lives:" fontLocation="sfSmall" isBeside="201"></HudObject>
+  <HudObject id="202" partition="TopRight" XOffset="0" YOffset="0" type="Text" text="This text changes color." fontLocation="sf" isBeside="200"></HudObject>
+
+  <HudObject id="300" partition="BottomLeft" XOffset="0" YOffset="25" type="Image" imageLocation="man" isBeside="0" isVisible="false"></HudObject>
+  <HudObject id="301" partition="BottomLeft" XOffset ="20" YOffset="25" type ="Text" text="Where is the man??" fontLocation="sf" isBeside="300" green="200" blue="100"></HudObject>
+  <HudObject id="302" partition="BottomLeft" XOffset ="20" YOffset="50" type ="Text" text="This text Hides" fontLocation="sf" isBeside="300" isVisible ="false"></HudObject>
+
+  <HudObject id="400" partition="BottomRight" XOffset ="0" YOffset="0" type ="Text" text="Adwait" fontLocation="sf" isBeside="0" red="100" blue="100"></HudObject>
+  <HudObject id="401" partition="BottomRight" XOffset ="10" YOffset="10" type ="Text" text="Makers name" fontLocation="sfSmall" isBeside="400" green="200"></HudObject>
+  <HudObject id="403" partition="BottomRight" XOffset ="10" YOffset="10" type ="Image" isVisible ="True" imageLocation="Rect" isBeside="401"></HudObject>
+</HUDSettings>

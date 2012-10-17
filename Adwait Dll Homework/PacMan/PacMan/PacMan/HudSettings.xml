@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<HUDSettings X="0" Y="0" Width="960" Height="800">
+  <HudObject id="100" partition="TopLeft" XOffset="10" YOffset="5" type="Text" text="Time:" fontLocation="Fonts/ScoreFont"></HudObject>
+  <HudObject id="101" partition="TopLeft" XOffset="90" YOffset="5" type="Text" text="Hurry up!!" fontLocation="Fonts/ScoreFont" isVisible="false" isBeside="100" red="255"></HudObject>
+
+  <HudObject id="201" partition="TopRight" XOffset="90" YOffset="5" type="Text" text="Score:" fontLocation="Fonts/ScoreFont"></HudObject>
+  <HudObject id="200" partition="TopRight" XOffset="30" YOffset="5" type="Text" text="Lives:" fontLocation="Fonts/ScoreFont" isBeside="201"></HudObject>
+</HUDSettings>

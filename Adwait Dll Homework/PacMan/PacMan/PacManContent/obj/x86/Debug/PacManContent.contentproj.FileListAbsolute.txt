@@ -1,0 +1,2 @@
+D:\Game Dev\Projects\Assignment 2\PacMan\PacMan\PacManContent\obj\x86\Debug\PacManContent.contentprojResolveAssemblyReference.cache
+D:\PacMan\PacMan\PacManContent\obj\x86\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,13 @@
+D:\Fall_2012\Game Dev\DLL\DeployDll\DeployDll\DeployDll\bin\x86\Debug\Content\sf.xnb
+D:\Fall_2012\Game Dev\DLL\DeployDll\DeployDll\DeployDll\bin\x86\Debug\DeployDll.exe
+D:\Fall_2012\Game Dev\DLL\DeployDll\DeployDll\DeployDll\bin\x86\Debug\DeployDll.pdb
+D:\Fall_2012\Game Dev\DLL\DeployDll\DeployDll\DeployDll\bin\x86\Debug\HUD.dll
+D:\Fall_2012\Game Dev\DLL\DeployDll\DeployDll\DeployDll\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Fall_2012\Game Dev\DLL\DeployDll\DeployDll\DeployDll\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Fall_2012\Game Dev\DLL\DeployDll\DeployDll\DeployDll\obj\x86\Debug\DeployDll.exe
+D:\Fall_2012\Game Dev\DLL\DeployDll\DeployDll\DeployDll\obj\x86\Debug\DeployDll.pdb
+D:\Fall_2012\Game Dev\DLL\DeployDll\DeployDll\DeployDll\bin\x86\Debug\Content\GreenLight.xnb
+D:\Fall_2012\Game Dev\DLL\DeployDll\DeployDll\DeployDll\bin\x86\Debug\Content\man.xnb
+D:\Fall_2012\Game Dev\DLL\DeployDll\DeployDll\DeployDll\bin\x86\Debug\Content\sfSmall.xnb
+D:\Fall_2012\Game Dev\DLL\DeployDll\DeployDll\DeployDll\bin\x86\Debug\Content\Rect.xnb
+D:\Fall_2012\Game Dev\DLL\DeployDll\DeployDll\DeployDll\bin\x86\Debug\HUD.pdb
