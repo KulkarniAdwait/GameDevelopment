@@ -1,0 +1,16 @@
+Content\GhostSprites.xnb
+Content\Walls\HorizontalWall.xnb
+Content\Walls\VerticalWall.xnb
+Content\Pellets.xnb
+Content\Pill.xnb
+Content\Splat.xnb
+Content\Door.xnb
+Content\HighScoreBK.xnb
+Content\GreenLight.xnb
+Content\Fonts\ScoreFont.xnb
+Content\Colorize.xnb
+Content\Sounds\GameOver.xnb
+Content\Sounds\LevelCompleted.xnb
+Content\Sounds\PacmanDead.xnb
+Content\Sounds\GhostEaten.xnb
+Content\Sounds\PelletEaten.xnb
